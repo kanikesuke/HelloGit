@@ -3,5 +3,7 @@ test hoge
 tasu
 
 commit2
-
 branch test login
+
+local test
+local branch sitai
